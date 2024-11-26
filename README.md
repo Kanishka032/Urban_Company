@@ -46,3 +46,6 @@ This project is a static webpage representing the services offered by Urban Comp
 5. **Getting Started**: Instructions on how to run the project locally or customize it.
 6. **License**: Typically, you should include a license if you plan to share this project.
 
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/fcee5313-67db-4d38-bdcd-fd1152a49bfe">
+
+
