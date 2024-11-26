@@ -2,7 +2,7 @@
 
 Click below to watch the video:
 
-[![Watch Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch Video](https://example.com/your-thumbnail-image.png)](https://github.com/Kanishka032/Urban_Company/blob/cb641fb3a445a64cb426271ca4ba653c57b95deb/Image/Document%20-%20Google%20Chrome%202024-11-26%2015-05-06%20(1)%20(1).mp4)
 
 # Urban_Company
 
