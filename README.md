@@ -1,8 +1,8 @@
 ## Watch the Video
 
-Click the thumbnail to watch the video:
+Click the link below to view or download the video:
 
-[![Watch Video](https://example.com/your-thumbnail-image.png)](https://github.com/Kanishka032/Urban_Company/blob/b4ed3a930d151990ecca6c42b9b89c6da4fa1fd8/Image/Document%20-%20Google%20Chrome%202024-11-26%2015-05-06%20(1).mp4)
+[Watch the Video](https://github.com/Kanishka032/Urban_Company/blob/b4ed3a930d151990ecca6c42b9b89c6da4fa1fd8/Image/Document%20-%20Google%20Chrome%202024-11-26%2015-05-06%20(1).mp4)
 
 
 # Urban_Company
