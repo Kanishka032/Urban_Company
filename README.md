@@ -1,5 +1,8 @@
+## Watch the Video
 
-[![Watch Video](https://github.com/Kanishka032/Urban_Company/blob/main/Image/video-thumbnail.png)](https://github.com/Kanishka032/Urban_Company/blob/8b8bac02f3993a7225052a2f03bdeb905925bb9d/Image/Document%20-%20Google%20Chrome%202024-11-26%2015-05-06%20(1)%20(1).mp4)
+Click below to watch the video:
+
+[![Watch Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # Urban_Company
 
