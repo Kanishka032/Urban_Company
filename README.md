@@ -49,4 +49,9 @@ This project is a static webpage representing the services offered by Urban Comp
 
 <img width="940" alt="image" src="https://github.com/user-attachments/assets/fcee5313-67db-4d38-bdcd-fd1152a49bfe">
 
+## Watch the Video
+
+Click the thumbnail below to watch the video on YouTube:
+
+[![Watch Video](https://img.youtube.com/vi/62dbDAIl14M/0.jpg)](https://youtu.be/62dbDAIl14M?feature=shared)
 
