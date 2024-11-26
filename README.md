@@ -1,5 +1,5 @@
 # Urban_Company
-# urban_Company
+
 
 This project is a static webpage representing the services offered by Urban Company, focusing on home services like beauty, cleaning, plumbing, and more. The site provides a visually appealing and responsive layout for users to explore various home services that can be booked online.
 
@@ -34,10 +34,7 @@ This project is a static webpage representing the services offered by Urban Comp
 1. Clone the repository or download the project files to your local machine.
 2. Open the `index.html` file in a web browser to view the webpage.
 
-```bash
-git clone https://github.com/kanishka_0302/urban-web-service.git
-cd urban-web-service
-open index.html
+
 
 
 ### Notes on the README:
